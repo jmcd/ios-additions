@@ -7,6 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
+#import "JMDAssert.h"
 
 @interface ios_additionsTests : XCTestCase
 
@@ -28,6 +29,8 @@
 
 - (void)testExample
 {
+	[JMDAssert condition:NO]
+
     XCTFail(@"No implementation for \"%s\"", __PRETTY_FUNCTION__);
 }
 
