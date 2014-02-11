@@ -17,4 +17,4 @@ Where `POD-NAME` is one of
 * JMDFoundation - a few small fountation helpers, inc. a class that combines NSDate and NSCalendar for ease
 * JMDImage - UIImage category helper
 
-See [https://github.com/jmcd/podspecs]https://github.com/jmcd/podspecs for versions
+See https://github.com/jmcd/podspecs for versions
