@@ -16,3 +16,5 @@ Where `POD-NAME` is one of
 * JMDCoreData - core-data setup and helper, with a fetched result controller delegate abstraction
 * JMDFoundation - a few small fountation helpers, inc. a class that combines NSDate and NSCalendar for ease
 * JMDImage - UIImage category helper
+
+See [https://github.com/jmcd/podspecs]https://github.com/jmcd/podspecs for versions
