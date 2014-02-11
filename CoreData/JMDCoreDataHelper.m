@@ -79,7 +79,7 @@
 	if (!context) return;
 	if (![context hasChanges]) return;
 
-	NSError *error = nil;
+	//NSError *error = nil;
 	//ZAssert([context save:&error], @"error saving context: %@, %@", [error localizedDescription], [error userInfo]);
 }
 
